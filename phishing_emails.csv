@@ -1,0 +1,51 @@
+email_text,label
+"Hello team, our meeting is scheduled for tomorrow at 10 AM. Please review the attached agenda.",Safe
+"Your bank account has been temporarily locked. Verify your account immediately at http://fake-bank-login.example.com",Phishing
+"Thank you for your purchase. Your order has been shipped and will arrive soon.",Safe
+"URGENT! Your account will be suspended. Click here to verify your password immediately.",Phishing
+"Hi John, please find the project report attached for your review.",Safe
+"Congratulations! You have won a free prize. Claim your reward now by clicking this link.",Phishing
+"Your monthly electricity bill is now available in your customer account.",Safe
+"Your email account will expire today. Confirm your password to avoid losing access.",Phishing
+"Reminder: Your appointment is confirmed for Monday at 3 PM.",Safe
+"Unusual login detected. Click this link immediately to secure your account and enter your credentials.",Phishing
+"Dear customer, your payment receipt is available in your online account.",Safe
+"You have been selected for a cash reward. Send your bank details to receive your money.",Phishing
+"Hello, the team meeting has been moved to Friday afternoon.",Safe
+"Your account has a security issue. Verify your identity and password immediately.",Phishing
+"Thank you for contacting customer support. We will respond to your request shortly.",Safe
+"Your package delivery failed. Pay the urgent fee using this link to release your parcel.",Phishing
+"Please review the updated project schedule before tomorrow's meeting.",Safe
+"Your account is at risk. Click here to confirm your login credentials immediately.",Phishing
+"Your subscription renewal is complete. Thank you for your continued support.",Safe
+"URGENT: You won a lottery prize. Provide your password and bank details to claim it.",Phishing
+"Your class assignment deadline is Friday. Please submit your work on time.",Safe
+"Verify your account now or it will be permanently blocked. Enter your password here.",Phishing
+"Your requested password reset instructions are available on the official website.",Safe
+"Your mailbox is full. Click this suspicious link and enter your password to restore access.",Phishing
+"Hello, attached is the invoice you requested for last month's services.",Safe
+"Immediate action required: confirm your banking PIN to prevent account suspension.",Phishing
+"Your library book is due next week. Please return it before the deadline.",Safe
+"Claim your exclusive reward now. Share your personal and financial information to receive it.",Phishing
+"Your application has been received. We will contact you when a decision is available.",Safe
+"Security alert: Your account will be deleted today unless you verify your password immediately.",Phishing
+"Thank you for attending the webinar. The presentation slides are now available.",Safe
+"Your bank account is compromised. Click here and submit your PIN to secure your funds.",Phishing
+"Please confirm your attendance at the scheduled training session.",Safe
+"Final warning: You must enter your login details immediately to avoid losing your account.",Phishing
+"Your monthly statement is ready. Sign in through your bank's official website to view it.",Safe
+"Congratulations, you have won a gift card. Pay a small fee now to claim your reward.",Phishing
+"Your support ticket has been updated. Please check the official customer portal.",Safe
+"Unusual activity detected. Reply with your password and verification code immediately.",Phishing
+"Hi, let's catch up tomorrow to discuss our project progress.",Safe
+"Your account will be disabled. Use this unfamiliar link to confirm your personal information.",Phishing
+"Your registration for the workshop is confirmed. We look forward to seeing you.",Safe
+"Urgent payment required! Send your banking information now to avoid legal action.",Phishing
+"Please find the meeting notes attached. Let me know if you have any questions.",Safe
+"Your password has expired. Click the link and enter your old password to continue.",Phishing
+"Your travel booking confirmation is available in your account.",Safe
+"You are eligible for a surprise cash bonus. Share your bank details to receive it.",Phishing
+"Reminder: The office will be closed on the public holiday.",Safe
+"Your account has been flagged. Enter your password and security code on this page immediately.",Phishing
+"Thank you for your order. You can check its status through the retailer's official website.",Safe
+"Act now to avoid account closure. Confirm your login credentials through this unknown link.",Phishing
